@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: blueviolet;
+}
+
+a{
+    color: yellow;
+}
+
+.search_button{
+    background-color: white;
+}
+
+.slide_img{
+    width: 100vw;
+    overflow: hidden;
+    height: 40vh;
+}
+
+.text_color{
+    color: greenyellow;
+}
+
+.btn1{
+    background-color: antiquewhite;
+}
+
+.login_submit{
+    position: relative;
+    left: 380px;
+}
+
+.signUp_submit{
+    position: relative;
+    left: 300px;
+}
+
+.bottom{
+    position: relative;
+    bottom: -280px;
+}
+
+.bottom_contact{
+    position: relative;
+    top: 0;
+}
